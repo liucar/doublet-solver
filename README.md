@@ -15,7 +15,7 @@ Example:</br>
   shortest path between the start word and end word. This is achieved through
   breadth-first traversal.
   
-- Dictionary created from knuth.txt
+- Dictionary created from "knuth.txt"
 
 - No possible path will output “None”  
 	   

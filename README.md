@@ -4,7 +4,7 @@ A program that solves doublet puzzles of length 5 using a Graph and DoubletSolve
 A doublet puzzle transforms one word to another word by changing one letter at a time.
 
 Example:
-FLOUR-floor-flood-blood-brood-broad-BREAD
+flour floor flood blood brood broad bread
 
 ## Notes:
 - Doublet solver only works for words of length 5

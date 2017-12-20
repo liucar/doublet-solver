@@ -3,7 +3,8 @@ A program that solves doublet puzzles of length 5 using a Graph and DoubletSolve
 
 A doublet puzzle transforms one word to another word by changing one letter at a time.
 
-Example:
+Example:</br>
+flour -> bread</br>
 flour floor flood blood brood broad bread
 
 ## Notes:
